@@ -1,0 +1,16 @@
+# Build output
+Arduino/demo/*/build/
+Arduino/demo/*/.pio/
+Arduino/demo/*/.vscode/
+
+# IDE / editor
+Arduino/demo/*/.claude/
+Arduino/demo/*/.agents/
+Arduino/demo/*/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PlatformIO
+.pio/
