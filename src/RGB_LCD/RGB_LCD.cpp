@@ -1,3 +1,4 @@
+#include <Arduino.h>
 
 #include "Display_ST7789.h"
 #include "WS2812B.h"

@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include "SD_Card.h"
 #include "Display_ST7789.h"
 #include "LCD_Image.h"
