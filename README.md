@@ -1,7 +1,7 @@
 # ESP32-S3-0.85-SD
 
-Demo projects for the ESP32-S3 with a 0.85-inch LCD.
-Project structured for use with Platformio/PioArduino IDE in VS code
+Demo projects for the ESP32-S3 with a 0.85-inch LCD.  
+Project revised for use with Platformio/PioArduino IDE in VS code
 
 ## Folder structure
 
