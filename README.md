@@ -1,6 +1,7 @@
 # ESP32-S3-0.85-SD
 
 Demo projects for the ESP32-S3 with a 0.85-inch LCD.
+Project structured for use with Platformio/PioArduino IDE in VS code
 
 ## Folder structure
 
@@ -20,7 +21,7 @@ ESP32-S3-0.85-SD/
 
 ## Building
 
-1. Install VS Code and PlatformIo extension.
-2. Open this folder and check Platformio detects the project.
+1. Install VS Code and PlatformIo or Pioarduino extension.
+2. Open this folder and check that .ini file is detected.
 3. Compile default environment to compile all the 3 demo projects.
 4. Select a project and upload it to device.
